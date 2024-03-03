@@ -1,0 +1,123 @@
+.nav_sec{
+    height:40px;
+    width:80px;
+}
+.back_sec{
+    background-image:url("https://assets.cars24.com/production/c2b-website/240224143409/js/85ecae3abf056d0d7a74d97529ae3b7e.png");
+    height:80vh;
+    background-size:cover;
+}
+.head_sec{
+    color:white;
+    font-weight:bold;
+
+}
+.search_sec{
+    width:80vh;
+    padding:10px;
+    border-radius:8px;
+}
+#nav_item1{
+    color:black;
+    font-weight:bold;
+}
+#nav_item2{
+    color:black;
+    font-weight:bold;
+}
+#nav_item3{
+    color:black;
+    font-weight:bold;
+}
+#nav_item4{
+    color:black;
+    font-weight:bold;
+}
+.wcu-card-image {
+    height: 200px;
+    width:100%;
+    border-radius:5px;
+   
+  }
+  .rr{
+   
+    background-color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    height:400px;
+    padding:10px;
+    
+  }
+  .arrow_sec{
+  color: #f2860a;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: bold;
+  }
+  .back_sec_1{
+    background-color:#3575db;
+  }
+  .cars_sec{
+    background-color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    height:400px;
+    
+  }
+  .recently-card-image{
+    height: 200px;
+    width:100%;
+
+  }
+  .easy_steps_con{
+    background-color:white;
+  }
+  .easy_head_sec{
+    color:rgb(128, 142, 154);
+    margin-top:15px;
+  }
+  .span_sec{
+    color:orange;
+    font-weight:bold;
+  }
+  .cars_section{
+    background-color:white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    height:400px;
+    border-radius:10px;
+
+  }
+  .recently-card-image_sec{
+    height: 200px;
+    width:100%;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+
+  }
+  .car_head{
+    color:#538eec;
+    font-weight:bold;
+    font-size:50px;
+  }
+  .car_para{
+    color:#818489;
+    font-size:20px;
+    font-weight:bold;
+  }
+  .btn_sec{
+    background-color:#f2860a;
+    color:white;
+    padding:8px;
+    border-width:0px;
+    border-radius:10px;
+    width:25%;
+    font-weight:bold;
+
+  }
+  .car_last_sec{
+    background-color:white;
+  }
